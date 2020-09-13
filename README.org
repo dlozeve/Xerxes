@@ -1,0 +1,5 @@
+* Xerxes
+
+[[https://github.com/dlozeve/Xerxes/actions][https://github.com/dlozeve/Xerxes/workflows/CI/badge.svg]]
+
+Yet another experimental optimisation library.
