@@ -3,5 +3,8 @@ uuid = "7e2dab5c-d571-492e-83e2-e8122a4440f3"
 authors = ["Dimitri Lozeve <dimitri@lozeve.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+
 [compat]
 julia = "1.5"
